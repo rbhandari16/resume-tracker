@@ -15,6 +15,7 @@ What does not exist yet:
 
 # This repository is maintained as a reference system.
 "@ | Set- Content README.md
+<<<<<<< HEAD
 
 
 ## Phase 4 — Row Level Security (RLS)
@@ -28,3 +29,5 @@ RLS enforces strict data ownership:
 
 This ensures multi-user isolation and secure event tracking.
 
+=======
+>>>>>>> cfb4bcc94196f3cda6c7aba71f004d97569cc230
